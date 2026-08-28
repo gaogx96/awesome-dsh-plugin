@@ -1,0 +1,6 @@
+url: https://github.com/gaogx96/trajectory-clean
+category: ui
+description:
+  en: A cleaner, more intuitive trajectory view for DeepSeek Harness. Groups conversation steps by user message, shows per-message and per-turn token usage (input/output/cache), color-codes user/model/tool/error rows, and supports loading older history and searching user messages. Theme-adaptive, no emoji.
+  zh: 更简洁直观的轨迹视图。按用户消息分组，显示每条消息与每轮的 Token 消耗（输入/输出/缓存命中），用户/模型/工具/错误行彩色区分，支持加载更早记录与搜索用户消息。适配所有主题，无 emoji。
+install: dsh plugin --profile web add trajectory-clean
